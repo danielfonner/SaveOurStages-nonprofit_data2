@@ -152,7 +152,7 @@ choices = [(.45*dfData990ez_2019['earned_program_service_rev']),(12000000)]
 dfData990ez_2019['45_of_Earned_max_12m'] = np.select(conditions,choices)
 
 conditions = [((dfData990ez_2019['earned_program_service_rev'])<=(dfData990ez_2019['45_of_Gross_max_12m'])),((dfData990ez_2019['earned_program_service_rev'])>(dfData990ez_2019['45_of_Gross_max_12m']))]
-choices = [(dfData990ez_2019['earned_program_service_rev']),dfData990ez_2019['45_of_Gross_max_12m'])]
+choices = [(dfData990ez_2019['earned_program_service_rev']),(dfData990ez_2019['45_of_Gross_max_12m'])]
 dfData990ez_2019['100_of_Earned_upto_45_Gross_max_12m'] = np.select(conditions,choices)
 
 
