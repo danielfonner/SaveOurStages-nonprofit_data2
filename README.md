@@ -26,7 +26,6 @@ This repository contains cleaned 990/990EZ/990N data along with the Python scirp
 
 
 The primary variables analyzed are:
- - Contributed Revenue (contributed_rev)
  - Earned Revenue/Progam Service Revenue (earned_program_service_rev)
  - Gross Receipts/Revenue (gross_rev, which is Total Revenue plus expense values removed from gross figures in "other revenue" on 990s and 990EZs. This value aligns with Box G on the first page of 990s)
  - Total Expenses (total_exp)
