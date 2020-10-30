@@ -42,14 +42,9 @@ Of all active nonprofit entities in the United States that have filed a 990 or 9
 
 The current Heroes Act Bill plans to provide maximum support to any one organization totaling no more than 45% of **Earned Revenue** with a cap of $12 million per organization. If all organizations analyzed here received the maximum allowed, that would cost $2.4 billion to fund (average: $162k, median:$17k).
  
-The original Heroes Act Bill planned to provide maximum support to any one organization totaling no more than 45% of **Gross Revenue** with a cap of $12 million per organization. If all organizations analyzed here received the maximum allowed under this plan, that would cost $5 billion to fund (average: $342k, median:$53k).
+The original Heroes Act Bill planned to provide maximum support to any one organization totaling no more than 45% of **Gross Revenue** with a cap of $12 million per organization. If all organizations analyzed here received the maximum allowed under this plan, that would cost $5.0 billion to fund (average: $342k, median:$53k).
 
-Beyond the two stated plans, an additional plan would provide support to organizations covering 100% of **Earned Revenue** totaling no more than 45% of **Gross Revenue** with a cap of $12 million per organization. If all organizations analyzed here received the maximum allowed under this plan, that would cost $XXX billion to fund (average: $XXX, median:$XXX).
-
-
-### Priority Application Periods ###
-
-The current Heroes Act Bill would create a 14-day priority period fo applicants recoginizing revenue declines of 90% or more and a subsequent 14-day priorty period for applicants recognizing revenue declines of 70% or more. 50% of organizations would qualify for the first period, and an additional 8% would qualify for the second period.
+Beyond the two stated plans, an additional plan would provide support to organizations covering 100% of **Earned Revenue** totaling no more than 45% of **Gross Revenue** with a cap of $12 million per organization. If all organizations analyzed here received the maximum allowed under this plan, that would cost $3.7 billion to fund (average: $254k, median:$30k).
 
 
 ## Final Notes ##
