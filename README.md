@@ -43,7 +43,9 @@ Beyond the two stated plans, an additional proposal would provide support to org
 
 ## Final Notes ##
 
-This analysis is **very inclusive** of all nonprofit performing arts organizations (NAICS 7111 and (NAICS 7113 & NTEE'A')). In addition to the 990 and 990EZ filers, 990N (postcard) filers may also be eligible for funding through this progrram even though this analysis does not include their financial figures as they are not required to report them to the IRS due to their small size. Using the above NAICS/NTEE criteria, 19,054 990N filers are classified as performing arts organizations. It is possible that some of the organizations included here would not qualify for funding under the Save Our Stages plan as they do not operate a specific venue. However, we are not able to assess venue ownership/operation via publicly available data. As such, we have erred on the side of inclusivity.
+This analysis is **very inclusive** of all nonprofit performing arts organizations (NAICS 7111 and (NAICS 7113 & NTEE'A')). In addition to the 990 and 990EZ filers, 990N (postcard) filers may also be eligible for funding through this program even though this analysis does not include their financial figures as they are not required to report them to the IRS due to their small size. Using the above NAICS/NTEE criteria, 19,054 990N filers are classified as performing arts organizations. 
+
+It is possible that some of the organizations included here would not qualify for funding under the Save Our Stages plan as they do not operate a specific venue. However, we are not able to assess venue ownership/operation via publicly available data. As such, we have erred on the side of inclusivity.
 
 If you have any questions, please contact me at dfonner@smu.edu.
 
