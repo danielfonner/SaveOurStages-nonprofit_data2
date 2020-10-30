@@ -10,16 +10,11 @@ This analysis explores the level of earned revenue, contributed revenue, gross r
 
 
 To provide transparent and reproducible results, this analysis identifies financial measures related to nonprofit performing arts organizations defined by those organizations that 1) have filed a 990 or 990EZ form in the past three years, and 2) is coded as a performing arts entity idenfied by one of the following criteria:
- - A NAICS code beginning with 7111
- - A NAICS code beginning with 7113 AND an NTEE code beginning with the letter 'A' 
+ - A NAICS code beginning with 7111 (https://www.naics.com/naics-code-description/?code=7111)
+ - A NAICS code beginning with 7113 (https://www.naics.com/naics-code-description/?code=7113) AND an NTEE code beginning with the letter 'A' (https://nccs.urban.org/publication/irs-activity-codes)
 
-All 990 and 990EZ data is available from the IRS (https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data), and NAICS classifications are available via the IRS Business Master File maintained by the Urban Institute's National Center for Charitable Statistics (https://nccs-data.urban.org/data.php?ds=bmf)
 
-NAICS and NTEE code definitions can be found on the following webpages:
- - NAICS 7111: https://www.naics.com/naics-code-description/?code=7111
- - NAICS 7113: https://www.naics.com/naics-code-description/?code=7113
- - NTEE 'A': https://nccs.urban.org/publication/irs-activity-codes
- 
+All 990 and 990EZ data is available from the IRS (https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data), and NAICS classifications are available via the IRS Business Master File maintained by the Urban Institute's National Center for Charitable Statistics (https://nccs-data.urban.org/data.php?ds=bmf) This analysis combines all 990 and 990EZ data processed in 2017, 2018, and 2019 keeping the most recent 990 data for each organization based on EIN. This ensures that all current/active nonprofit performing arts organizations are accounted for since organizations have a 3 year filing window before their tax exempt status is revoked.
 
 
 This repository contains cleaned 990/990EZ/990N data along with the Python scirpts written to clean and analyze the data. 
