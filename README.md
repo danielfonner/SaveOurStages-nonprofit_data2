@@ -39,11 +39,11 @@ Program Service Revenue is defined by the IRS as:
 
 Of all active nonprofit entities in the United States that have filed a 990 or 990ez in the past three years, 14,597 are classified as performing arts with aggregate expenses of over $11.6 billion. Average Earned Revenue accounts for 39% of Gross Revenue (47% of Total Revenue). 
 
-The current Heroes Act Bill plans to provide maximum support to any one organization totaling no more than 45% of **Earned Revenue** with a cap of $12 million per organization. If all organizations analyzed here received the maximum allowed, that would cost $2.4 billion to fund (average: $162k, median:$17k).
+The current Heroes Act Bill plans to provide maximum support to any one organization totaling no more than 45% of **Earned Revenue** with a cap of $12 million per organization. If all organizations analyzed here received the maximum allowed, that would cost $2.4 billion to fund (oranizations would recieve on average: $162k, median:$17k).
  
-The original Heroes Act Bill planned to provide maximum support to any one organization totaling no more than 45% of **Gross Revenue** with a cap of $12 million per organization. If all organizations analyzed here received the maximum allowed under this plan, that would cost $5.0 billion to fund (average: $342k, median:$53k).
+The original Heroes Act Bill planned to provide maximum support to any one organization totaling no more than 45% of **Gross Revenue** with a cap of $12 million per organization. If all organizations analyzed here received the maximum allowed under this plan, that would cost $5.0 billion to fund (oranizations would recieve on average: $342k, median:$53k).
 
-Beyond the two stated plans, an additional plan would provide support to organizations covering 100% of **Earned Revenue** totaling no more than 45% of **Gross Revenue** with a cap of $12 million per organization. If all organizations analyzed here received the maximum allowed under this plan, that would cost $3.7 billion to fund (average: $254k, median:$30k).
+Beyond the two stated plans, an additional proposal would provide support to organizations covering 100% of **Earned Revenue** totaling no more than 45% of **Gross Revenue** with a cap of $12 million per organization. If all organizations analyzed here received the maximum allowed under this plan, that would cost $3.7 billion to fund (oranizations would recieve on average: $254k, median:$30k).
 
 
 ## Final Notes ##
