@@ -1,8 +1,12 @@
 # SaveOurStages-nonprofit_data2
 This repository contains data and analysis to support the nonprofit performing arts sector in advocating for funding through the proposed Save Our Stages program within the Heroes Small Business Lifeline Act.
 
+
+
 ![SMU DataArts Logo](https://da.culturaldata.org/images/logos/DataArts.RB.webonly.rgb.png)
 
+
+ 
 ### Created by Daniel F Fonner, Associate Director for Research, SMU DataArts, Southern Methodist University ###
 In collaboration with Theatre Communications Group and the League of American Orchestras
 
