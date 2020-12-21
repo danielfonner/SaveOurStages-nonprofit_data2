@@ -43,6 +43,7 @@ The original Heroes Act Bill planned to provide maximum support to any one organ
 
 Beyond the two stated plans, an additional proposal would provide support to organizations covering 100% of **Earned Revenue** totaling no more than 45% of **Gross Revenue** with a cap of $12 million per organization. If all organizations analyzed here received the maximum allowed under this plan, that would cost $3.7 billion to fund (oranizations would recieve on average: $254k, median:$30k).
 
+A final proposal would provide maximum support to any one organization totaling no more than 45% of **Earned Revenue** with a cap of $10 million per organization. If all organizations analyzed here received the maximum allowed, that would cost $2.3 billion to fund (organizations would receive on average: $158k, median:$17k).
 
 ## Final Notes ##
 
