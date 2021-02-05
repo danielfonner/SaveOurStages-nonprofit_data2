@@ -4,7 +4,15 @@
 
 This repository contains data and analysis to support the nonprofit performing arts sector in advocating for funding through the proposed Save Our Stages program within the Heroes Small Business Lifeline Act.
 
- 
+### NOTE THAT SAVE OUR STAGES WAS RENAMED TO THE SHUTTERED VENUE OPERATORS GRANT (SVOG) PROGRAM ###
+
+You can find more detailed information about the program here: https://www.sba.gov/funding-programs/loans/coronavirus-relief-options/shuttered-venue-operators-grant
+
+From the SBA: "Eligible (shuttered venues) applicants may qualify for SVO Grants equal to 45% of their gross earned revenue, with the maximum amount available for a single grant award of $10 million." In addition to performing arts venues, "Relevant museum operators, zoos and aquariums who meet specific criteria" may also be elegible. An analysis of nonprofit museums can be found below after the performing arts information.
+
+
+
+
 ### Created by Daniel F Fonner, Associate Director for Research, SMU DataArts, Southern Methodist University ###
 In collaboration with Theatre Communications Group and the League of American Orchestras
 
@@ -45,11 +53,21 @@ Beyond the two stated plans, an additional proposal would provide support to org
 
 A final proposal would provide maximum support to any one organization totaling no more than 45% of **Earned Revenue** with a cap of $10 million per organization. If all organizations analyzed here received the maximum allowed, that would cost $2.3 billion to fund (organizations would receive on average: $158k, median:$17k).
 
+# Museum Analysis - added February 5, 2021 #
+
+Defining museums, zoos, aquariums, and historical societies utiized NAICS codes 712110 "museums", 712120 "historical sites", and 712130 "zoos and botanical gardens; NAICS definitions can be found here: https://www.naics.com/naics-code-description/?code=7121.  Corresponding NTEE codes include A50, A51, A52, A54, A56, A57, A80, A82, and D50. You can find the NTEE code definitions here: https://nccs.urban.org/publication/irs-activity-codes.  For this group, there were 11,865 990/990EZ filers (22,418 990N filers without financial information due to their small size).
+
+When analyzing the museum, zoo, and historical organizations under the Shuttered Venue Operators Grant Program, if all organizations analyzed received maximum support of the SVOG program that could not exceed 45% of Earned revenue with a $10M cap per organization, that would cost $1.65B to fund (organizations receiving on average $140k, median $1.2k)
+
+Note that the average/median analysis of performing arts organizations ($158k/$17k) compared to museums ($140k/$1.2k) showed that the business models of the sectors are very different with performing arts organizations having earned revenue account for 47% of total revenue as compared to 26% for museums. This shows potential difficulties for different types of organizations seeking funds from the SVOG program when earned revenue is the criteria used by the SBA.
+
 ## Final Notes ##
 
-This analysis is **very inclusive** of all nonprofit performing arts organizations (NAICS 7111 and (NAICS 7113 & NTEE'A')). In addition to the 990 and 990EZ filers, 990N (postcard) filers may also be eligible for funding through this program even though this analysis does not include their financial figures as they are not required to report them to the IRS due to their small size. Using the above NAICS/NTEE criteria, 19,054 990N filers are classified as performing arts organizations. 
+This analysis is **very inclusive** of all nonprofit performing arts organizations (NAICS 7111 and (NAICS 7113 & NTEE'A')). In addition to the 990 and 990EZ filers, 990N (postcard) filers may also be eligible for funding through this program even though this analysis does not include their financial figures as they are not required to report them to the IRS due to their small size. Using the above NAICS/NTEE criteria, 19,054 990N filers are classified as performing arts organizations.
 
 It is possible that some of the organizations included here would not qualify for funding under the Save Our Stages plan as they do not operate a specific venue. However, we are not able to assess venue ownership/operation via publicly available data. As such, we have erred on the side of inclusivity.
+
+Lastly, if one wanted to explore information related to the count of for-profit entities as well as non-profit entities in the US classified by the NAICS codes listed above, one could use data from the Census' Business Pattern Data program. You can download a table showing the number of establishments in the US by filtering on the column "2017 NAICS Code": https://www2.census.gov/programs-surveys/nonemployer-statistics/tables/2018/combine18us.xlsx. When viewing those counts of establishments, it is important to keep the Census definitions (2nd tab in the spreadsheet) in mind if one is tryinig to compare to the IRS 990 data; for example the 990N organizations noted above most likely would not be counted in the Business Pattern Data due to their small size and potential lack of a physical location.
 
 If you have any questions, please contact me at dfonner@smu.edu.
 
