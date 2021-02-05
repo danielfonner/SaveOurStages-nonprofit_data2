@@ -53,7 +53,7 @@ Beyond the two stated plans, an additional proposal would provide support to org
 
 A final proposal would provide maximum support to any one organization totaling no more than 45% of **Earned Revenue** with a cap of $10 million per organization. If all organizations analyzed here received the maximum allowed, that would cost $2.3 billion to fund (organizations would receive on average: $158k, median:$17k).
 
-# Museum Analysis - added February 5, 2021 #
+## Museum Analysis - added February 5, 2021 ##
 
 Defining museums, zoos, aquariums, and historical societies utiized NAICS codes 712110 "museums", 712120 "historical sites", and 712130 "zoos and botanical gardens; NAICS definitions can be found here: https://www.naics.com/naics-code-description/?code=7121.  Corresponding NTEE codes include A50, A51, A52, A54, A56, A57, A80, A82, and D50. You can find the NTEE code definitions here: https://nccs.urban.org/publication/irs-activity-codes.  For this group, there were 11,865 990/990EZ filers (22,418 990N filers without financial information due to their small size).
 
