@@ -63,11 +63,15 @@ Note that the average/median analysis of performing arts organizations ($158k/$1
 
 ## Employment Numbers - added February 25, 2021 ##
 
-An additional consideration related to the Shuttered Venue Operators Grant program relates to those organizations with fewer than 50 employees. Using the IRS 990 data, we are able to see the count of employees as reported on Form W-3 for 990 filers (note these are not FTE figures). 990EZ filers do not provide this detailed of data point on their 990EZs. However, due to the budget size restrictions of 990EZ filers, it is extremelly unlikely that they could have 50 or more employees.
+An additional consideration related to the Shuttered Venue Operators Grant program relates to those organizations with fewer than 50 employees. Using the IRS 990 data, we are able to see the count of employees as reported on Form W-3 for 990 filers (note these are not FTE figures). 990EZ filers do not provide this detailed of data point on their 990EZs. However, due to the budget size restrictions of 990EZ filers, it is extremely unlikely that they could have 50 or more employees.
 
 Under this assumption (and assuming 990N filers would not qualify for Shuttered Venue Operators Grant program funding due to their extremely small size) we can determine the number of nonprofit organizations with fewer than 50 employees by 1) counting all 990EZ filers and 2) counting all 990 filers with fewer than 50 employees.
 
 Of the 14,597 nonprofit performing arts organizations identified in this analysis, 13,614 had fewer than 50 employees. Of the 11,865 museum-related organizations, 11,152 had fewer than 50 employees.
+
+If only those organizations with fewer than 50 employees were to receive funding that could not exceed 45% of Earned revenue with a $10M cap per organization,
+- Performing arts organizations that would cost $780M to fund (organizations receiving on average $57k, median $15k)
+- For museum-related organizatons that would cost $381M to fund (organizations receiving on average $34k, median $500)
 
 ## Final Notes ##
 
