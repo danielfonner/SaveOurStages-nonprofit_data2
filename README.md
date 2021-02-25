@@ -70,8 +70,8 @@ Under this assumption (and assuming 990N filers would not qualify for Shuttered 
 Of the 14,597 nonprofit performing arts organizations identified in this analysis, 13,614 had fewer than 50 employees. Of the 11,865 museum-related organizations, 11,152 had fewer than 50 employees.
 
 If only those organizations with fewer than 50 employees were to receive funding that could not exceed 45% of Earned revenue with a $10M cap per organization,
-- Performing arts organizations that would cost $780M to fund (organizations receiving on average $57k, median $15k)
-- For museum-related organizatons that would cost $381M to fund (organizations receiving on average $34k, median $500)
+- For performing arts organizations, that would cost $780M to fund (organizations receiving on average $57k, median $15k)
+- For museum-related organizatons, that would cost $381M to fund (organizations receiving on average $34k, median $500)
 
 ## Final Notes ##
 
