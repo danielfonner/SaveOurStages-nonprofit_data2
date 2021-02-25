@@ -61,6 +61,14 @@ When analyzing the museum, zoo, and historical organizations under the Shuttered
 
 Note that the average/median analysis of performing arts organizations ($158k/$17k) compared to museums ($140k/$1.2k) showed that the business models of the sectors are very different with performing arts organizations having earned revenue account for 47% of total revenue as compared to 26% for museums. This shows potential difficulties for different types of organizations seeking funds from the SVOG program when earned revenue is the criteria used by the SBA.
 
+## Employment Numbers - added February 25, 2021 ##
+
+An additional consideration related to the Shuttered Venue Operators Grant program relates to those organizations with fewer than 50 employees. Using the IRS 990 data, we are able to see the count of employees as reported on Form W-3 for 990 filers (note these are not FTE figures). 990EZ filers do not provide this detailed of data point on their 990EZs. However, due to the budget size restrictions of 990EZ filers, it is extremelly unlikely that they could have 50 or more employees.
+
+Under this assumption (and assuming 990N filers would not qualify for Shuttered Venue Operators Grant program funding due to their extremely small size) we can determine the number of nonprofit organizations with fewer than 50 employees by 1) counting all 990EZ filers and 2) counting all 990 filers with fewer than 50 employees.
+
+Of the 14,597 nonprofit performing arts organizations identified in this analysis, 13,614 had fewer than 50 employees. Of the 11,865 museum-related organizations, 11,152 had fewer than 50 employees.
+
 ## Final Notes ##
 
 This analysis is **very inclusive** of all nonprofit performing arts organizations (NAICS 7111 and (NAICS 7113 & NTEE'A')). In addition to the 990 and 990EZ filers, 990N (postcard) filers may also be eligible for funding through this program even though this analysis does not include their financial figures as they are not required to report them to the IRS due to their small size. Using the above NAICS/NTEE criteria, 19,054 990N filers are classified as performing arts organizations.
