@@ -14,7 +14,7 @@ From the SBA: "Eligible (shuttered venues) applicants may qualify for SVO Grants
 
 
 ### Created by Daniel F Fonner, Associate Director for Research, SMU DataArts, Southern Methodist University ###
-In collaboration with Theatre Communications Group and the League of American Orchestras
+Developed in conversation with Theatre Communications Group, League of American Orchestras, and Americans for the Arts
 
 
 This analysis explores the level of earned revenue, gross revenue, and expenses of nonprofit performing arts organizations in the United States. The data and calculations should provide information to inform lawmakers currently negotiating the Save Our Stages component of the Heroes Small Business Lifeline Act, which aims to provide funding to performing arts venues that have had to close due to COVID-19, and thus cutting off some revenue streams. You can read the current Senate Bill here starting on page 161: https://www.sbc.senate.gov/public/_cache/files/6/6/660e49ed-3ced-482f-9de7-938a17b48ae4/625B9431CE99F0693E2F94E3CFCAFAC9.hen20a83.pdf
