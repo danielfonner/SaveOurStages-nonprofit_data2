@@ -73,9 +73,9 @@ If only those organizations with fewer than 50 employees were to receive funding
 - For performing arts organizations, that would cost $780M to fund (organizations receiving on average $57k, median $15k)
 - For museum-related organizatons, that would cost $381M to fund (organizations receiving on average $34k, median $500)
 
-For a final consideration, this analysis looked at organizations with fewer than 20 employees. Under the same assumptions as above, there would be:
-- 12,960 performinig arts organizations, that would cost $598M to fund (organizations receiving on average $46k, median $13k)
-- 10,502 museum-related organizatons, that would cost $216M to fund (organizations receiving on average $21k, median $132)
+For a final consideration, this analysis looked at organizations with fewer than 20 employees. Under the same assumptions/logic as above, there would be:
+- 12,960 performing arts organizations, that would cost $598M to fund (organizations receiving on average $46k, median $13k)
+- 10,502 museum-related organizations, that would cost $216M to fund (organizations receiving on average $21k, median $132)
 
 ## Final Notes ##
 
