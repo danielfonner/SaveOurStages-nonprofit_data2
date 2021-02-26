@@ -73,6 +73,10 @@ If only those organizations with fewer than 50 employees were to receive funding
 - For performing arts organizations, that would cost $780M to fund (organizations receiving on average $57k, median $15k)
 - For museum-related organizatons, that would cost $381M to fund (organizations receiving on average $34k, median $500)
 
+For a final consideration, this analysis looked at organizations with fewer than 20 employees. Under the same assumptions as above, there would be:
+- 12,960 performinig arts organizations, that would cost $598M to fund (organizations receiving on average $46k, median $13k)
+- 10,502 museum-related organizatons, that would cost $216M to fund (organizations receiving on average $21k, median $132)
+
 ## Final Notes ##
 
 This analysis is **very inclusive** of all nonprofit performing arts organizations (NAICS 7111 and (NAICS 7113 & NTEE'A')). In addition to the 990 and 990EZ filers, 990N (postcard) filers may also be eligible for funding through this program even though this analysis does not include their financial figures as they are not required to report them to the IRS due to their small size. Using the above NAICS/NTEE criteria, 19,054 990N filers are classified as performing arts organizations.
